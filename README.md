@@ -28,11 +28,11 @@ The two processes communicate using **TCP/IP sockets**, making it an excellent d
    ```
 3. Run the server:
    ```sh
-   server.exe
+   ./server.exe
    ```
 4. Run the client:
    ```sh
-   client.exe
+   ./client.exe
    ```
 
 ### Linux/macOS:
@@ -69,12 +69,12 @@ The two processes communicate using **TCP/IP sockets**, making it an excellent d
 
 ## Source Files
 
-- `books.c` – Handles book data operations.
-- `client.c` – Handles client-side interaction with the server.
-- `connect.c` – Manages TCP socket communication.
-- `defs.h` – Contains global definitions and cross-platform adjustments.
-- `lib.c` – Handles book list operations.
-- `server.c` – Implements the server logic.
+- `books.c` â€“ Handles book data operations.
+- `client.c` â€“ Handles client-side interaction with the server.
+- `connect.c` â€“ Manages TCP socket communication.
+- `defs.h` â€“ Contains global definitions and cross-platform adjustments.
+- `lib.c` â€“ Handles book list operations.
+- `server.c` â€“ Implements the server logic.
 
 ---
 
