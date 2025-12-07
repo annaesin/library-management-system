@@ -2,6 +2,6 @@
 *.o
 *.exe
 
-# VS Code / Visual Studio
+# VS
 .vs/
 *.sqlite
