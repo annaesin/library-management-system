@@ -1,0 +1,7 @@
+# Build artifacts
+*.o
+*.exe
+
+# VS Code / Visual Studio
+.vs/
+*.sqlite
